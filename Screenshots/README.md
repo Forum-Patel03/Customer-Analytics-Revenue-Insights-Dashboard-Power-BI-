@@ -1,7 +1,7 @@
 ## Dashboard Preview
 
 ### Executive_Summary
-Screenshots/Executive_Summary.png
+(Screenshots/Executive_Summary.png)
 
 ### Customer_Overview&Behavior
 "C:\Users\foram\OneDrive\Pictures\Screenshots\Customer_Overview&Behavior.png"
