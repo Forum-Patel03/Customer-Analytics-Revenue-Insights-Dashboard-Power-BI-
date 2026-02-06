@@ -1,7 +1,7 @@
 ## 📷 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Screenshots/Executive_Summary.png)
+![Executive Summary](Executive_Summary.png)
 
 ### Customer Overview & Behavior
 ![Customer Overview](Screenshots/Customer_Overview_Behavior.png)
