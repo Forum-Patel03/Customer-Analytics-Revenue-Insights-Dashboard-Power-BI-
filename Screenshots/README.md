@@ -1,7 +1,7 @@
 ## 📷 Dashboard Preview
 
 ###Executive_Summary
-"C:\Users\foram\OneDrive\Pictures\Screenshots\Executive_Summary.png"
+C:\Users\foram\OneDrive\Pictures\Screenshots\Executive_Summary.png
 
 ###Customer_Overview&Behavior
 "C:\Users\foram\OneDrive\Pictures\Screenshots\Customer_Overview&Behavior.png"
